@@ -1,0 +1,6 @@
+sk
+Flask-Cors
+Jinja2
+requests
+pycodestyle
+
